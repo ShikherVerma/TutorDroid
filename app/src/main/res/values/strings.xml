@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ESC101</string>
+    <string name="button1">Write &amp; Run</string>
+    <string name="button2">Tutorial</string>
+    <string name="button3">Course Details</string>
+    <string name="button4">Extract GCC</string>
+    <string name="button5">Settings</string>
+    <string name="button6">Help</string>
+    <string name="text2">please read the help page first</string>
+    <string name="text1">ESC 101 TutorDroid</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
